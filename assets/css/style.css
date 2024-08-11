@@ -1210,13 +1210,13 @@ display:block;
 }
 .arti_img{position: relative;}
 .arti_img_two{position: relative;}
-.arti_img_two img{margin-bottom:20px;width: 100%;}
+.arti_img_two img{margin-bottom:20px;width: 10%;}
  @media only screen and (max-width:880px){
 .arti_img_two img{margin-bottom:20px;width: 100%;margin-bottom: 20px;}
  }
 .arti_img img {
 	float: left;
-	width: 50%;
+	width: 30%;
 	margin-right: 25px;
 	position: relative;
 }
