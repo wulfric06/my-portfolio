@@ -42,7 +42,7 @@ a {
     transition: all 0.2s;
 }
 a:hover {
-    color: #fff;
+    color: #ac0d0d;
     text-decoration: none;
 }
 a:focus {
@@ -1736,3 +1736,10 @@ text-decoration: underline;
 .section-top-title ul li {color: #1a2d62 !important;display: inline-block; }
 .section-top-title ul li a { color: #2eca7f!important;font-weight: 600; }
 .section-top-title ul li a:hover { color: #1a2d62!important }
+
+#contactlink {
+	color: black;
+}
+#contactlink:hover {
+	color: blue;
+}
