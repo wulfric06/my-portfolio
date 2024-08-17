@@ -1742,4 +1742,5 @@ text-decoration: underline;
 }
 #contactlink:hover {
 	color: blue;
+	text-decoration: underline;
 }
